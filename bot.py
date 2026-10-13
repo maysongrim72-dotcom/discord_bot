@@ -36,4 +36,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 # 2. СЮДИ ВСТАВТЕ СВІЙ СЕКРЕТНИЙ ТОКЕН (у лапках)
-bot.run("YOUR_BOT_TOKEN_HERE")
+bot.run("MTU1OTQ3Mzk1MDk0NDQwMzU2Ng.GeHSzP.ZgsZgsgEH3WxshFyiMDVCMWxLmE3MWaw6nZyaI")
